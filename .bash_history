@@ -12,3 +12,6 @@ git init
 git push origin master
 cd..
 \
+sudo su
+sudo user
+sudo su
